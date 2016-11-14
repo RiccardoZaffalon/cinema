@@ -1,2 +1,2 @@
 # cinema
-PHP API for local movie library
+A PHP API with an AJAX frontend to manage my local movie library.
